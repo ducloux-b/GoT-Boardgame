@@ -1,0 +1,54 @@
+<game>
+    <houses>
+        <house>
+            <name>Stark</name>
+            <family>
+                <member>
+                    <name>Eddard Stark</name>
+                    <shield>3</shield>
+                    <power>2 towers</power>
+                    <image></image>
+                </member>
+                <member>
+                    <name>Robb Stark</name>
+                    <shield>2</shield>
+                    <power>Attacking Knights in your army add +3 to your combat strength instead of +2.</power>
+                    <image></image>
+                </member>
+                <member>
+                    <name>Maester Luwin</name>
+                    <shield>0</shield>
+                    <power>If you win this battle, you may return one of your discarded House Cards to your hand.</power>
+                    <image></image>
+                </member>
+                <member>
+                    <name>Catelyn Stark</name>
+                    <shield>0</shield>
+                    <power>Your Defense order bonus is doubled this battle.</power>
+                    <image></image>
+                </member>
+                <member>
+                    <name>House Mormont Lord</name>
+                    <shield>1</shield>
+                    <power>1 sword</power>
+                    <image></image>
+                </member>
+                <member>
+                    <name>Greatjon Umber</name>
+                    <shield>2</shield>
+                    <power>1 sword</power>
+                    <image></image>
+                </member>
+                <member>
+                    <name>Ser Rodrick Cassel</name>
+                    <shield>1</shield>
+                    <power>1 tower</power>
+                    <image></image>
+                </member>
+            </family>
+        </house>
+    </houses>
+    <map>
+    
+    </map>
+</game>
